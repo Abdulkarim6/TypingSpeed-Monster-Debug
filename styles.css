@@ -63,10 +63,10 @@ body {
 }
 #result {
   position: fixed;
-  top: 10%; 
-  left: 10%;
+  top: 300px; 
+  left: 50%;
   transform: translate(-50%, -50%);
-  height: 250px;
+  height: 270px;
   width: 400px;
   background-color: #171717;
   border-radius: 15px;
