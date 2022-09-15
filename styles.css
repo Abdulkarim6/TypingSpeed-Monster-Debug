@@ -144,6 +144,7 @@ button {
 #histories {
   display: grid;
   gap: 15px;
+  margin-bottom: 20px;
   flex-wrap: wrap;
   justify-content: space-around;
 }
